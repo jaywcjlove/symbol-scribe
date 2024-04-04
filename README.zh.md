@@ -15,7 +15,7 @@
   </p>
 </div>
 
-In messaging applications, use interesting emoji emoticons such as smiley faces, kaomojis, and various other symbols.
+消息应用中使用有趣的表情符号，如笑脸表情符号、颜文字和其他各种符号。
 
 ![Symbol Scribe screenshots-1](./assets/screenshots-1.png)
 ![Symbol Scribe screenshots-2](./assets/screenshots-2.png)
@@ -23,4 +23,4 @@ In messaging applications, use interesting emoji emoticons such as smiley faces,
 ![Symbol Scribe screenshots-4](./assets/screenshots-4.png)
 ![Symbol Scribe screenshots-5](./assets/screenshots-5.png)
 
-Have you ever seen people using funny emoji emoticons in SMS, Facebook, Twitter, email applications, and various other messaging platforms? These include emojis, kaomojis, and various other symbols.
+你是否曾经看到人们在短信、Facebook、Twitter、电子邮件应用和各种其他消息平台上使用有趣的表情符号？这些包括表情符号、颜文字和各种其他符号。
