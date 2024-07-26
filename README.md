@@ -3,9 +3,9 @@
 	<br />
 	<img src="./assets/logo.png" alt="Symbol Scribe LOGO" width="160" height="160">
   <p>
-		<a href="./README.md">English</a> • 
+		<a href="./README.zh.md">中文</a> • 
     <a target="_blank" href="https://apps.apple.com/app/symbol-scribe/id6470879005">AppStore</a> • 
-		<a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a>
+		<a target="_blank" href="https://wangchujiang.com/#/contact">Contact & Support</a>
   </p>
 	<h1>Symbol Scribe</h1>
   <!--rehype:style=border: 0;-->
