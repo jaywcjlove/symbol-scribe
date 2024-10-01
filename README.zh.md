@@ -10,7 +10,7 @@
 	<h1>Symbol Scribe</h1>
   <!--rehype:style=border: 0;-->
   <p>
-    <a target="_blank" href="https://apps.apple.com/app/symbol-scribe/id6470879005" title="Symbol Scribe AppStore"><img alt="Symbol Scribe AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
+    <a target="_blank" href="https://apps.apple.com/app/symbol-scribe/id6470879005" title="Symbol Scribe for macOS"><img alt="Symbol Scribe for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
   </p>
 </div>
