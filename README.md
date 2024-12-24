@@ -2,13 +2,14 @@
 	<br />
 	<br />
 	<img src="./assets/logo.png" alt="Symbol Scribe LOGO" width="160" height="160">
+	<h1>Symbol Scribe</h1>
+  <!--rehype:style=border: 0;-->
   <p>
 		<a href="./README.zh.md">中文</a> • 
     <a target="_blank" href="https://apps.apple.com/app/symbol-scribe/id6470879005">AppStore</a> • 
-		<a target="_blank" href="https://wangchujiang.com/#/contact">Contact & Support</a>
+		<a target="_blank" href="https://wangchujiang.com/#/contact">Contact & Support</a> • 
+    <a target="_blank" href="https://github.com/jaywcjlove/symbol-scribe/releases">Changelog</a>
   </p>
-	<h1>Symbol Scribe</h1>
-  <!--rehype:style=border: 0;-->
   <p>
     <a target="_blank" href="https://apps.apple.com/app/symbol-scribe/id6470879005" title="Symbol Scribe for macOS"><img alt="Symbol Scribe for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
