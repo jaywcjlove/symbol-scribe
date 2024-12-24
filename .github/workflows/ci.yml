@@ -14,10 +14,26 @@ jobs:
           node-version: 20
           registry-url: 'https://registry.npmjs.org'
 
+      - name: Create Tag
+        id: create_tag
+        uses: jaywcjlove/create-tag-action@main
+        with:
+          test: '[R|r]elease[d]\s+[v|V]\d(\.\d+){0,2}'
+
+      - name: Create Released Tag
+        uses: jaywcjlove/create-tag-action@main
+        with:
+          version: ${{ steps.create_tag.outputs.version }}
+          release: true
+          body: |
+            <a target="_blank" href="https://apps.apple.com/app/symbol-scribe/id6470879005" title="Symbol Scribe for macOS">
+              <img alt="Symbol Scribe for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+            </a>
+
       - name: Create idoc config.
         run: |
           cat > idoc.yml << EOF
-          site: "Symbol Scribe"
+          site: "Symbol Scribe {{version:${{ steps.create_tag.outputs.version }}}}"
           description: In messaging applications, use interesting emoji emoticons such as smiley faces, kaomojis, and various other symbols.
           keywords: kaomojis,emoji,symbols,alphabet,language symbols
           favicon: assets/logo.png
