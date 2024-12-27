@@ -25,3 +25,5 @@ In messaging applications, use interesting emoji emoticons such as smiley faces,
 ![Symbol Scribe screenshots-5](./assets/screenshots-5.png)
 
 Have you ever seen people using funny emoji emoticons in SMS, Facebook, Twitter, email applications, and various other messaging platforms? These include emojis, kaomojis, and various other symbols.
+
+<!--v1.7-->
