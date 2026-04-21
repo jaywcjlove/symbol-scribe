@@ -6,12 +6,13 @@
   <!--rehype:style=border: 0;-->
   <p>
 		<a href="./README.zh.md">中文</a> • 
-    <a target="_blank" href="https://apps.apple.com/app/symbol-scribe/id6470879005">AppStore</a> • 
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6470879005">AppStore</a> • 
 		<a target="_blank" href="https://wangchujiang.com/#/contact">Contact & Support</a> • 
     <a target="_blank" href="https://github.com/jaywcjlove/symbol-scribe/releases">Changelog</a>
   </p>
   <p>
-    <a target="_blank" href="https://apps.apple.com/app/symbol-scribe/id6470879005" title="Symbol Scribe for macOS"><img alt="Symbol Scribe for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6470879005" title="Symbol Scribe for macOS">
+      <img alt="Symbol Scribe for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
   </p>
 </div>

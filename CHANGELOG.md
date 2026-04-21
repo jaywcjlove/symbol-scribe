@@ -1,7 +1,7 @@
 Changelog
 ===
 
-<a target="_blank" href="https://apps.apple.com/app/symbol-scribe/id6470879005" title="Symbol Scribe for macOS">
+<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6470879005" title="Symbol Scribe for macOS">
 <img alt="Symbol Scribe for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
