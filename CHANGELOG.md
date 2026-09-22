@@ -5,6 +5,16 @@ Changelog
 <img alt="Symbol Scribe for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.9.0](https://github.com/jaywcjlove/daybar/releases/tag/v1.9.0)
+
+1. feat: Update app icon. 
+2. fix: explicitly show NSMenuItem symbol images on macOS 27+. 
+
+---
+
+1. feat：更新应用图标
+2. fix：在 macOS 27+ 上正常显示 NSMenuItem 符号图标
+
 ## [v1.8.0](https://github.com/jaywcjlove/daybar/releases/tag/v1.8.0)
 
 1. Chore: Update menu bar menu.
